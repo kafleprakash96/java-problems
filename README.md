@@ -7,3 +7,5 @@ The project contains solutions for most common problems using JAVA.
 3. **Swap two numbers without using third variable** `src/swapnumber`
 
 4. **Generate and print fibonacci sequence** `src/fibonacci`
+
+5. **Check if the number is Prime** `src/primechecker`
