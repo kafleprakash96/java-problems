@@ -9,3 +9,5 @@ The project contains solutions for most common problems using JAVA.
 4. **Generate and print fibonacci sequence** `src/fibonacci`
 
 5. **Check if the number is Prime** `src/primechecker`
+
+6. **Count the vowels and consonant from string** `src/countvowels`
