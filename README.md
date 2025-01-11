@@ -11,3 +11,5 @@ The project contains solutions for most common problems using JAVA.
 5. **Check if the number is Prime** `src/primechecker`
 
 6. **Count the vowels and consonant from string** `src/countvowels`
+
+7. **Print patterns** `src/patterns` (more to be added in future)
